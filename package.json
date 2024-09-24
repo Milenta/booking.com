@@ -1,0 +1,18 @@
+{
+  "name": "upg-assigment",
+  "version": "1.0.0",
+  "description": "Creating automated tests for UPG company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marko Milentijevic",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.13.0"
+  }
+}
